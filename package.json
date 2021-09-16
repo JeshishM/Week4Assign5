@@ -3,13 +3,22 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "next": "^11.1.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeshishM/Week4Assign5.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "next": "^11.1.2"
-  }
+  "bugs": {
+    "url": "https://github.com/JeshishM/Week4Assign5/issues"
+  },
+  "homepage": "https://github.com/JeshishM/Week4Assign5#readme"
 }

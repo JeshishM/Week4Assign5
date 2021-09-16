@@ -1,0 +1,37 @@
+[
+  { 
+    "name": "Jeshish Maharjan",
+    "email": "jessmah@coder.com",
+    "phone": "707-456-4587",
+    "birthdate": "04/01/2020",
+    "id": 1
+  },
+  { 
+    "name": "Sonam Sherpa",
+    "email": "data@person.com",
+    "phone": "800-123-4458",
+    "birthdate": "01/02/2011",
+    "id": 2
+  },
+  { 
+    "name": "Shankar Saud",
+    "email": "george@scripter.com",
+    "phone": "800-876-0090",
+    "birthdate": "12/01/2009",
+    "id": 3
+  },
+	{ 
+    "name": "Norbu Tepa",
+    "email": "george@scripter.com",
+    "phone": "800-876-0090",
+    "birthdate": "12/01/2009",
+    "id": 4
+  },
+	{ 
+    "name": "Tsering Yangchen",
+    "email": "george@scripter.com",
+    "phone": "800-876-0090",
+    "birthdate": "12/01/2009",
+    "id": 5
+  }
+]
